@@ -4,6 +4,6 @@
 ### 20190317-學習R
 > 小語法
 
->> trycatch-->類似python的 try except
+>1. trycatch-->類似python的 try except
 
->> paste0
+>2. paste0
