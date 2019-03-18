@@ -5,6 +5,7 @@
 小語法
 
 >1. trycatch
+
 類似python的 try except
 
 >2. paste0
