@@ -54,12 +54,15 @@
 >11. Sys.setlocale(category = "LC_ALL", locale = "cht")
 
     英文轉換為中文
-    
->12. read_html()
+
+爬蟲
+
+>1. read_html()
 
     使用 read_html 函數先將整個網頁的原始 HTML 程式碼抓下來：
     page.source <- read_html("https://en.wikipedia.org/wiki/R_(programming_language)")
     
+>2.
     
 
     
