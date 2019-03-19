@@ -45,6 +45,23 @@
     
 >9. order
 
+    order()即排序的函數，根據value值，返回值則是index。
+    
+>10. Sys.setlocale(category = "LC_ALL", locale = “UTF-8")
+
+    中文轉換為英文
+   
+>11. Sys.setlocale(category = "LC_ALL", locale = "cht")
+
+    英文轉換為中文
+    
+>12. read_html()
+
+    使用 read_html 函數先將整個網頁的原始 HTML 程式碼抓下來：
+    page.source <- read_html("https://en.wikipedia.org/wiki/R_(programming_language)")
+    
+    
+
     
 
 
