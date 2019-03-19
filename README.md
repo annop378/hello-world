@@ -31,6 +31,9 @@
     
 >6. lapply
 
+    lapply函数是一个最基础循环操作函数之一，用来对list、data.frame数据集进行循环，并返回和X长度同样的list结构作为结果集，通过lapply的开头的第一个     字母’l’就可以判断返回结果集的类型。
+    lapply(X, FUN, ...)
+    X:list、data.frame数据、FUN: 自定义的调用函数、…: 更多参数，可选
      
     
 
