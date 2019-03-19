@@ -10,4 +10,11 @@
 
 >2. paste0
 
+    如果不想要有任何分隔符號，可以使用 paste0 這個函數
+    paste0("Hello", "World")--> HelloWorld
+    
+>3.
+
+    
+
 
