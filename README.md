@@ -75,10 +75,15 @@
     配合 CSS 選擇器將指定的資料取出來：
     
 -------------------------------------------------------------------------------------------------------
->1. PCA 降維
+# Week 9
+>1. PCA 降維-->透過投影(加權)使點與點之間的差異可以拉得很開
 >2. TF-IDF 文字探勘，消除不重要的詞彙(邏輯:在不同類型的文章中，都重複這個詞)
+>3. log a.可以回答1為0 b.次序不會改變 c.關係可以較窄
+>4. Kmeans
+>5. SVM(support Vector Machine)
 
-    ![image](https://docs.google.com/presentation/d/e/2PACX-1vRiTWPwPfnCXVfWOOdtlu0-dxIgX_gts_bTKwBa_bYYfexkVHMcdacMC1EzYHQq1JBMbWqQZW0FgCsb/pub?start=false&loop=false&delayms=3000&slide=id.g5677fa69dc_0_636)
+
+    
     
 
 
