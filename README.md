@@ -74,7 +74,11 @@
 
     配合 CSS 選擇器將指定的資料取出來：
     
+-------------------------------------------------------------------------------------------------------
+>1. PCA 降維
+>2. TF-IDF 文字探勘，消除不重要的詞彙(邏輯:在不同類型的文章中，都重複這個詞)
 
+    ![image](https://docs.google.com/presentation/d/e/2PACX-1vRiTWPwPfnCXVfWOOdtlu0-dxIgX_gts_bTKwBa_bYYfexkVHMcdacMC1EzYHQq1JBMbWqQZW0FgCsb/pub?start=false&loop=false&delayms=3000&slide=id.g5677fa69dc_0_636)
     
 
 
