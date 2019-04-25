@@ -92,6 +92,12 @@ https://nbviewer.jupyter.org/github/annop378/HW/blob/master/hw/DATA_SCIENCE_HW.i
 >3. 中位數 VS 平均數
 
     不同情境使用不同的敘述統計
+-----------------------------------------------------
+NER
+
+ 去除不需要觀察的選項，
+ 將人事時地物找出來。
+ 用SML模式做標記。
 
     
 
