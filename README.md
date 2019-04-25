@@ -90,6 +90,7 @@ https://nbviewer.jupyter.org/github/annop378/HW/blob/master/hw/DATA_SCIENCE_HW.i
 >2. T-test
 
 >3. 中位數 VS 平均數
+
 	不同情境使用不同的敘述統計
 
     
