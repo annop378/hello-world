@@ -6,7 +6,9 @@
 		離群值?藥品多給屬性(性別、年齡、多寡...)?
 >3. LDA
 		Hightly(分類)
-		
+# Jupter viewer for HW1-HW4
+https://nbviewer.jupyter.org/github/annop378/HW/blob/master/hw/DATA_SCIENCE_HW.ipynb
+
 ### 20190317-學習R
 小語法
 
