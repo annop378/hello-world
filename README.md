@@ -1,5 +1,8 @@
 ﻿#  公告
 課程:107-2資料科學程式設計 學生:蕭妤安 學籍:土木系交通組碩一 學號:R07521509
+### Folder
+>1. final post : Use post office information to identify and resolve post office issues.
+>2. hw : Data exploration involving drugs and patients, and vehicle flow simulation.
 ### Week3
 >1. 狄利克雷分析
 >2. 探勘對象
